@@ -59,4 +59,3 @@ ENTRYPOINT [ "/root/docker-entrypoint.sh" ]
 CMD ["/bin/bash"]
 
 
-# Still need to somehow allow display to work
